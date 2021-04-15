@@ -11,6 +11,7 @@
         <module name="model" />
         <module name="service_user" />
         <module name="service-util" />
+        <module name="service-hosp" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,6 +20,7 @@
       <module name="common" options="-parameters" />
       <module name="common-util" options="-parameters" />
       <module name="model" options="-parameters" />
+      <module name="service-hosp" options="-parameters" />
       <module name="service-util" options="-parameters" />
       <module name="service_user" options="-parameters" />
       <module name="yygh-parent" options="-parameters" />
